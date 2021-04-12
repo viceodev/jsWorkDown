@@ -1,0 +1,8 @@
+Loops and Iterators are tools that helps us to run a snippet of code repeatedly provided the needed condition is true.
+
+
+There are different types of Iterators that different things. The following will be touched;
+
+1. For Loop
+2. Do while Loop
+3. While Loop
