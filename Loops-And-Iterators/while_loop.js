@@ -14,3 +14,5 @@ let picker =  function(num){
 }
 
 picker(0);
+
+// You should always make sure your condition has an end point so you don't create an infinite loop.
