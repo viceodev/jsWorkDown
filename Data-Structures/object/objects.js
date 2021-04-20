@@ -11,6 +11,8 @@ let obj =  {
 
 console.log(obj.key);
 
-// Or
+// Or you can alos use the bracket notation
 
 console.log(obj['key']);
+
+
