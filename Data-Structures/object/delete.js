@@ -13,7 +13,7 @@ let jsFamily = {
 
 let remover =  function(object, key){
     // Console log Before delete
-    console.log(jsFamily);
+    console.log(object);
 
     delete object[key];
 
